@@ -1,4 +1,3 @@
-````markdown
 # Clay 101 - Lesson 02
 
 **Topic:** The Jigsaw Framework for Data Enrichment
@@ -259,4 +258,3 @@ Following this approach results in cleaner data, more efficient workflows, and b
 | Lesson | 02 |
 | Status | Completed |
 | Date | 2026-07-13 |
-````
