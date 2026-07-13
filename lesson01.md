@@ -12,6 +12,7 @@ This lesson introduces **Clay** and its core workflow methodology, the **FETE Fr
 
 This framework is the foundation for building workflows in Clay.
 
+
 ---
 
 ## Why the FETE Framework?
