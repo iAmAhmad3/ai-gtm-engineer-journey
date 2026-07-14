@@ -1,46 +1,43 @@
-# ai-gtm-engineer-journey
 # AI GTM Engineer Journey
 
-This repository documents my journey from **Software Engineer** to **AI GTM Engineer**, with a strong focus on building practical Go-To-Market (GTM) systems using AI, automation, APIs, and modern sales technologies.
+Welcome to my AI GTM Engineer learning journey.
 
-Rather than simply completing courses, the goal of this repository is to build a comprehensive knowledge base, document real-world projects, and create reusable workflows that solve business problems.
+This repository documents my progress as I transition from a Software Engineer into the world of **Go-To-Market (GTM) Engineering**. My goal is to develop practical skills in modern GTM systems by learning, building, and documenting everything along the way.
 
----
-
-## About Me
-
-I am a Full Stack Software Engineer with 4+ years of experience building web applications, AI-powered solutions, and automation systems.
-
-My technical background includes:
-
-- Full Stack Web Development
-- APIs & Webhooks
-- AI Integrations
-- Workflow Automation
-- CRM Integrations
-- Modern JavaScript Frameworks
-
-This repository represents my transition into the GTM Engineering domain by combining software engineering with sales operations, AI, and automation.
+Rather than simply completing courses, I aim to understand the concepts deeply, apply them through hands-on projects, and create a structured knowledge base that I can refer to throughout my career.
 
 ---
 
-## Learning Goals
+## What You'll Find Here
 
-My objective is to become an AI GTM Engineer capable of designing and implementing end-to-end GTM systems for B2B companies.
+This repository includes:
 
-Key focus areas include:
+- Course notes
+- Key concepts and frameworks
+- Practical examples
+- Workflow breakdowns
+- Project ideas
+- Personal learnings
+- Useful resources and references
 
-- GTM Fundamentals
+---
+
+## Learning Roadmap
+
+The journey currently includes learning and exploring:
+
 - Clay
 - HubSpot CRM
 - Apollo
-- Revenue Operations (RevOps)
-- AI Personalization
+- n8n
+- AI for GTM
 - Lead Enrichment
-- Outbound Automation
-- Workflow Automation (n8n)
+- Sales Automation
+- RevOps
+- GTM Workflows
 - APIs & Integrations
-- Sales Intelligence
+
+More topics and projects will be added as the journey progresses.
 
 ---
 
@@ -51,135 +48,25 @@ Key focus areas include:
 ├── README.md
 ├── Lesson01.md
 ├── Lesson02.md
+├── Lesson03.md
 ├── ...
-├── Projects/
-├── Resources/
-├── Templates/
-└── Assets/
+└── Resources/
 ```
 
-As the learning journey progresses, the repository will expand to include projects, reusable templates, diagrams, and workflow examples.
+Each lesson contains:
 
----
-
-## What You'll Find Here
-
-- Structured notes from courses and documentation
+- Objectives
+- Key concepts
+- Frameworks
 - Practical examples
-- Real-world GTM workflows
 - Client use cases
-- Architecture diagrams
-- Automation examples
-- AI prompts
-- Personal learnings
-- Project documentation
+- Lesson summary
+- Action items
 
 ---
 
-## Learning Methodology
+## Goal
 
-For every lesson, I follow the same process:
+By documenting every lesson and project, I hope to build a complete reference for AI-powered GTM Engineering while sharing my learning journey publicly.
 
-1. Learn the concept.
-2. Rebuild the workflow independently.
-3. Document the lesson in my own words.
-4. Explore practical business use cases.
-5. Apply the concepts to real-world projects.
-
-This approach emphasizes understanding and implementation rather than passive note-taking.
-
----
-
-## Courses Covered
-
-### Clay
-
-- Clay 101
-- Advanced Clay Workflows *(Coming Soon)*
-
-### CRM
-
-- HubSpot *(Coming Soon)*
-
-### Automation
-
-- n8n *(Coming Soon)*
-
-### Sales Intelligence
-
-- Apollo *(Coming Soon)*
-
-### AI
-
-- OpenAI
-- Anthropic
-- AI Personalization *(Coming Soon)*
-
----
-
-## Projects
-
-The repository will also include practical GTM projects such as:
-
-- Lead Enrichment System
-- AI Personalization Engine
-- CRM Automation
-- Outbound Workflow Automation
-- Company Research Agent
-- Prospect Scoring System
-- AI Sales Assistant
-- End-to-End GTM System
-
----
-
-## Tech Stack
-
-- Clay
-- HubSpot
-- Apollo
-- n8n
-- OpenAI
-- Anthropic
-- JavaScript / TypeScript
-- Node.js
-- REST APIs
-- Webhooks
-- Git & GitHub
-
----
-
-## Progress
-
-| Course | Status |
-|---------|--------|
-| Clay 101 | In Progress |
-| HubSpot CRM | Planned |
-| Apollo | Planned |
-| n8n | Planned |
-| AI Personalization | Planned |
-
----
-
-## Purpose
-
-This repository serves as:
-
-- A personal knowledge base
-- A structured learning journal
-- A portfolio of GTM engineering work
-- A collection of reusable workflows
-- A reference for future projects
-
----
-
-## Connect With Me
-
-**LinkedIn:** *(Add your LinkedIn profile)*
-
-**GitHub:** *(Add your GitHub profile)*
-
----
-
-## License
-
-This repository is intended for educational purposes and continuous learning.
+This repository is a living document and will continue to evolve as I gain more knowledge and practical experience.
