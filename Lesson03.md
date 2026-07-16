@@ -12,6 +12,8 @@ Instead of importing random companies, Clay allows you to define your **Ideal Cu
 
 ---
 
+
+
 ## Why Use the Find Companies Dataset?
 
 Successful outbound campaigns begin with the right audience.
